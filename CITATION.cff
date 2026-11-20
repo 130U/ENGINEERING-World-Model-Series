@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "World Model Series"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "A world model is valuable because it predicts the future. A robot, and a business, are valuable only when they act in the present. Where should prediction meet action? Three studies in English and Chinese, with the desk research behind them."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/ENGINEERING-World-Model-Series"
+url: "https://github.com/130U/ENGINEERING-World-Model-Series/blob/main/articles/2026-08-03-from-vision-and-instructions-to-robot-actions/README.en.md"
+keywords:
+  - world models
+  - embodied ai
+  - robotics
+  - vision-language-action
+  - market research
+  - bilingual
+preferred-citation:
+  type: report
+  title: "World Model Series"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://github.com/130U/ENGINEERING-World-Model-Series/blob/main/articles/2026-08-03-from-vision-and-instructions-to-robot-actions/README.en.md"
